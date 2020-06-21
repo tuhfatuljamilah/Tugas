@@ -12,6 +12,35 @@ a {
   padding: 0 15px;
   margin: 0 auto;
 }
+
+/* konten bawah */
+.heading h3 {
+  font-weight: normal;
+}
+
+.message-wrapper {
+  background-image: url(https://selular.id/wp-content/uploads/2019/10/Booking-com-1.jpeg);
+  background-size: cover;
+  color: white;
+  border-bottom: 1px solid #eee;
+  padding: 150px 0 150px 0;
+  text-align: center;
+}
+
+.message {
+  padding: 15px 40px;
+  background-color: #596275;
+  cursor: pointer;
+  box-shadow: 0 7px #303952;
+  border-radius: 4px;
+}
+
+.message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
 /* KOntak Informasi */
 .lesson-wrapper {
   height: 500px;
@@ -78,33 +107,6 @@ input, textarea {
 }
 
 
-/* konten bawah */
-.heading h3 {
-  font-weight: normal;
-}
-
-.message-wrapper {
-  background-image: url(https://selular.id/wp-content/uploads/2019/10/Booking-com-1.jpeg);
-  background-size: cover;
-  color: white;
-  border-bottom: 1px solid #eee;
-  padding: 150px 0 150px 0;
-  text-align: center;
-}
-
-.message {
-  padding: 15px 40px;
-  background-color: #596275;
-  cursor: pointer;
-  box-shadow: 0 7px #303952;
-  border-radius: 4px;
-}
-
-.message:active {
-  position: relative;
-  top: 7px;
-  box-shadow: none;
-}
 
 /* Footer */
 .footer {
