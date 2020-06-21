@@ -1,3 +1,21 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+
+
+/* konten bawah */
 .heading h3 {
   font-weight: normal;
 }
@@ -19,4 +37,18 @@
   position: relative;
   top: 7px;
   box-shadow: none;
+}
+
+/* Footer */
+footer img {
+  width: 125px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
 }
