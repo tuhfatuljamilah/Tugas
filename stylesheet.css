@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Lucida Grande";
+  font-family: "Verdana";
 }
 
 a {
@@ -21,6 +21,9 @@ a {
 }
 
 .message-wrapper {
+  background-image: url(https://selular.id/wp-content/uploads/2019/10/Booking-com-1.jpeg);
+  background-size: cover;
+  color: white;
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
