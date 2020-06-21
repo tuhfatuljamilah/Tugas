@@ -54,15 +54,3 @@ a {
 .footer-cat p {
   font-size: 12px;
 }
-.footer-list {
-  float: left;
-}
-.footer-list li {
-  padding-bottom: 30px;
-}
-li {
-  list-style: none;
-  float:left;
-  padding: 2px 5px;
-  font-size: 12px;
-}
