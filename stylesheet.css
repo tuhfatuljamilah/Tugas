@@ -51,10 +51,9 @@ a {
 }
 .footer-logo {
   font-size: 32px;
-  float: left;
 }
 .footer-list {
-  float: right;
+  float: left;
 }
 .footer-list li {
   padding-bottom: 20px;
