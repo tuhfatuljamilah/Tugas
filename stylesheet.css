@@ -25,15 +25,15 @@ a {
   background-size: cover;
   color: white;
   border-bottom: 1px solid #eee;
-  padding-bottom: 80px;
+  padding: 100px 0 100px 0;
   text-align: center;
 }
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #f8a5c2;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px #f78fb3;
 }
 
 .message:active {
@@ -43,15 +43,20 @@ a {
 }
 
 /* Footer */
-footer img {
-  width: 125px;
+.footer {
+  background-color: #574b90;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+.footer-logo {
+  font-size: 32px;
+  float: left;
+}
+.footer-list {
+  float: right;
+}
+.footer-list li {
+  padding-bottom: 20px;
 }
 
-footer p {
-  color: #b3aeb5;
-  font-size: 12px;
-}
-
-footer {
-  padding-top: 30px;
-}
