@@ -14,13 +14,11 @@ a {
 }
 
 /* konten bawah */
-.heading h3 {
+.heading-konten {
   font-weight: normal;
   color: white;
 }
-.heading h2 {
-  color: white;
-}
+
 
 .message-wrapper {
   background-image: url(https://selular.id/wp-content/uploads/2019/10/Booking-com-1.jpeg);
