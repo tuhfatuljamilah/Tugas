@@ -13,6 +13,24 @@ a {
   margin: 0 auto;
 }
 
+/* kontak */
+.contact-form {
+  padding-top: 100px;
+}
+
+input, textarea {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  border: 1px solid #dee7ec;
+  padding: 20px;
+  font-size: 18px;
+  width: 400px;
+}
+.contact-submit {
+  color: #889eab;
+  background-color: #dee7ec;
+  
+}
 
 
 /* konten bawah */
