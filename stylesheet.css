@@ -15,8 +15,9 @@ a {
 
 /* kontak */
 .contact-form {
-  padding-top: 100px;
+  padding-top: 100px 20px;
   background-color: #596275;
+  text-align: center;
 }
 
 input, textarea {
