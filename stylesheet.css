@@ -31,9 +31,10 @@ a {
 
 .message {
   padding: 15px 40px;
-  background-color: #f8a5c2;
+  background-color: #303952;
   cursor: pointer;
-  box-shadow: 0 7px #f78fb3;
+  box-shadow: 0 7px #596275;
+  border-radius: 4px;
 }
 
 .message:active {
@@ -44,7 +45,7 @@ a {
 
 /* Footer */
 .footer {
-  background-color: #574b90;
+  background-color: #303952;
   color: #fff;
   height: 80px;
   padding: 30px;
