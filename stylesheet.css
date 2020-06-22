@@ -26,16 +26,16 @@ li {
   line-height: 80px;
 }
 .li1 {
-  background-color: #ff8db3;
+  background-color: #82ccdd;
 }
 .li2 {
-  background-image: url(https://user-images.githubusercontent.com/67049488/85285902-e4e02400-b4bb-11ea-996d-7db83268b8ee.jpg);
+  background-color: #60a3bc;
 }
 .li3 {
-  background-color: #ff8db3;
+  background-color: #3c6382;
 }
 .li4 {
-  background-color: #88e7ce;
+  background-color: #0a3d62;
 }
 
 .flex-list {
