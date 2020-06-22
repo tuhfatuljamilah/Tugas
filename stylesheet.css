@@ -61,28 +61,7 @@ a {
   font-weight: normal;
 }
 /* flex */
-.lessons {
-  display: flex;
-}
-.lesson {
-  flex: auto;
-}
-@media (max-width: 1000px) {
-  .flex-list {
-    flex-wrap: wrap;
-  }
-  .flex-list li {
-    width: 50%;
-  }
-}
-@media (max-width: 670px) {
-  /* Tetapkan flex-direction milik .flex-list */
-  .flex-list {
-    flex-direction: column;
-  }
-  .flex-list li {
-    margin: 0 auto;
-  }
+
 
 
 /* end flex */
