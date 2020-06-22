@@ -22,11 +22,14 @@ ul {
 }
 li {
   color: white;
-  height: 80px;
+  height: 150px;
   line-height: 80px;
 }
 .li1 {
   background-color: #82ccdd;
+  width: 80%;
+  display: inline-block;
+  font-size: 12px;
 }
 .li2 {
   background-color: #60a3bc;
